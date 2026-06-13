@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shadow elements for visual depth -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M32,24h36l18,18v44c0,3.3-2.7,6-6,6H32c-3.3,0-6-2.7-6-6V30C26,26.7 28.7,24 32,24z" />
+
+    <!-- Pure white document sheet container -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,22h36l18,18v44c0,3.3-2.7,6-6,6H30c-3.3,0-6-2.7-6-6V28C24,24.7 26.7,22 30,22z" />
+
+    <!-- Folded top-right page corner with accent color shading -->
+    <path
+        android:fillColor="#8AB4F8"
+        android:pathData="M66,22v12c0,3.3 2.7,6 6,6h12L66,22z" />
+
+    <!-- Document formatting lines mimicking Markdown list item -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M34,44h22v4h-22z M34,54h40v4h-40z M34,64h40v4h-40z" />
+
+    <!-- Bold Accent Color representing LaTeX Sigma symbol centered nicely -->
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M62,44 C61.4,44 61,44.4 61,45 L61,47.5 L64.5,51 L61,54.5 L61,57 C61,57.6 61.4,58 62,58 L70,58 C70.6,58 71,57.6 71,57 L71,55.5 C71,54.9 70.6,54.5 70,54.5 L65.5,54.5 L68,52 C68.3,51.7 68.3,51.3 68,51 C68,51 68,51 68,51 L65.5,47.5 L70,47.5 C70.6,47.5 71,47.1 71,46.5 L71,45 C71,44.4 70.6,44 70,44 Z" />
+</vector>

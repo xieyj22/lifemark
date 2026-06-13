@@ -1,0 +1,6 @@
+{
+  "name": "LiteMark",
+  "description": "LiteMark is a lightweight Markdown editor supporting real-time rendering, local document management, export, and LaTeX equations - powered by a premium Bento Grid style dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
